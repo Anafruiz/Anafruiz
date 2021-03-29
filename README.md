@@ -1,7 +1,7 @@
 ### Hi :wave:,I'm Ana.
 
-## Junior Front End Developer 
-## Student at @Adalab
+### Junior Front End Developer 
+### Student at @Adalab
 
 
 
