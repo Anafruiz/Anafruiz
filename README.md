@@ -17,5 +17,5 @@ You can find me on Linkedin or you can  send me an email, if you prefer.
 <p align="left">
 <a href="https://linkedin.com/in/anafruiz20" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anafruiz20" height="30" width="40" /></a>  
  
-:email: <a href="mailto:anafruiz20@gmail.com"></a>
+:email: (mailto:anafruiz20@gmail.com)
 </p>
