@@ -15,6 +15,7 @@ I consider myself a dynamic, hard-working and very enthusiastic person.
 You can find me on Linkedin or you can  send me an email, if you prefer.
  I am currently looking for a job, so if you are interested in hiring a junior profile, don´t hesitate to contact me :woman:
 <p align="left">
-<a href="https://linkedin.com/in/anafruiz20" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anafruiz20" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anafruiz20" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anafruiz20" height="30" width="40" /></a>  
+ 
 :email: mailto:Anafruiz20@gmail.com
 </p>
