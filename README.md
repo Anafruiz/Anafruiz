@@ -14,8 +14,9 @@ I consider myself a dynamic, hard-working and very enthusiastic person.
 <hr/>
 <h4 align="left">Contact me:</h3>
 
-You can contact me on Linkedin or you can send me an email.
  I am currently looking for a job, so if you are interested in hiring a junior profile, don´t hesitate to contact me :woman:
+
+You can contact me on Linkedin or you can send me an email:
 <p align="center">
 <a href="https://linkedin.com/in/anafruiz20" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anafruiz20" height="30" width="40" /></a>  
 </p>
