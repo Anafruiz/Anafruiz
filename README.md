@@ -1,6 +1,7 @@
 ## Hi :wave:,I'm Ana.
 
-**Junior Front End Developer** :computer: //
+**Junior Front End Developer** :computer:   
+
 **Student at** *@Adalab*
 
 
