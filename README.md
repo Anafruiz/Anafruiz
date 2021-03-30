@@ -1,10 +1,7 @@
-## Hi :wave:,I'm Ana.
+<img src="./images/Hola" alt="html5" width="50" height="50"/>
+**Junior Front-End Developer** :computer:
 
-**Junior Front-End Developer** :computer:   
-
-
-
-Teacher by training but dedicated to tourism professionally I decided to make a change and enter the technological world that I always liked, especially front-end development. 
+Teacher by training but dedicated to tourism professionally I decided to make a change and enter the technological world that I always liked, especially front-end development.
 I consider myself a dynamic, hard-working and very enthusiastic person.
 
 <hr/>
@@ -14,19 +11,21 @@ I consider myself a dynamic, hard-working and very enthusiastic person.
 <h3 align="left">:construction: My Projects :</h3>
   
   
-<a href="https://anafruiz.github.io/modulo-3-evaluacion-final-Anafruiz/#/"><img src="https://img.icons8.com/color/48/000000/rick-sanchez.png" alt="anafruiz20" height="30" width="30"/> Rick & Morty character finder</a>  
+<a href="https://anafruiz.github.io/modulo-3-evaluacion-final-Anafruiz/#/"><img src="https://img.icons8.com/color/48/000000/rick-sanchez.png" alt="anafruiz20" height="30" width="30"/> Rick & Morty character finder</a>
 
-<a href="https://anafruiz.github.io/modulo-2-evaluacion-final-Anafruiz/"><img src="https://img.icons8.com/plasticine/100/000000/retro-tv.png" alt="anafruiz20" height="30" width="30"/> TV series searcher</a>  
+<a href="https://anafruiz.github.io/modulo-2-evaluacion-final-Anafruiz/"><img src="https://img.icons8.com/plasticine/100/000000/retro-tv.png" alt="anafruiz20" height="30" width="30"/> TV series searcher</a>
 
-<a href="https://awesome-profile-cards-magician.herokuapp.com/#/"><img src="https://img.icons8.com/ios/50/000000/oak-leaf.png" alt="anafruiz20" height="30" width="30"/>Awesome Profile cards</a>  
+<a href="https://awesome-profile-cards-magician.herokuapp.com/#/"><img src="https://img.icons8.com/ios/50/000000/oak-leaf.png" alt="anafruiz20" height="30" width="30"/>Awesome Profile cards</a>
 
 <a href="https://anafruiz.github.io/modulo-2-evaluacion-intermedia-Anafruiz/"><img src="https://img.icons8.com/dusk/64/000000/question-mark.png" alt="anafruiz20" height="30" width="30"/>Guess a number</a>
+
 <hr/>
 <h4 align="left">Contact me:</h3>
 
- I am currently looking for a job, so if you are interested in hiring a junior profile, don´t hesitate to contact me :woman:
+I am currently looking for a job, so if you are interested in hiring a junior profile, don´t hesitate to contact me :woman:
 
 You can contact me on Linkedin or you can send me an email:
+
 <p align="left">
 <a href="https://linkedin.com/in/anafruiz20" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anafruiz20" height="50" width="50" /></a>  
 </p>
