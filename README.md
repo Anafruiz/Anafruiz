@@ -1,4 +1,4 @@
-<img src="./images/Hola" alt="html5" width="50" height="50"/>
+![Alt text](images/Hola.png?raw=true)
 **Junior Front-End Developer** :computer:
 
 Teacher by training but dedicated to tourism professionally I decided to make a change and enter the technological world that I always liked, especially front-end development.
