@@ -11,13 +11,15 @@ I consider myself a dynamic, hard-working and very enthusiastic person.
 <h3 align="left">:construction: My Projects :</h3>
   
   
-<a href="https://anafruiz.github.io/modulo-3-evaluacion-final-Anafruiz/#/"><img src="https://img.icons8.com/color/48/000000/rick-sanchez.png" alt="anafruiz20" height="30" width="30"/> Rick & Morty character finder</a>
+<a href="https://anafruiz.github.io/Rick-Morty-character-finder/#/"><img src="https://img.icons8.com/color/48/000000/rick-sanchez.png" alt="anafruiz20" height="30" width="30"/> Rick & Morty character finder</a>
 
-<a href="https://anafruiz.github.io/modulo-2-evaluacion-final-Anafruiz/"><img src="https://img.icons8.com/plasticine/100/000000/retro-tv.png" alt="anafruiz20" height="30" width="30"/> TV series searcher</a>
+<a href="https://anafruiz.github.io/tv-series-searcher/"><img src="https://img.icons8.com/plasticine/100/000000/retro-tv.png" alt="anafruiz20" height="30" width="30"/> TV series searcher</a>
 
 <a href="https://awesome-profile-cards-magician.herokuapp.com/#/"><img src="https://img.icons8.com/ios/50/000000/oak-leaf.png" alt="anafruiz20" height="30" width="30"/>Awesome Profile cards</a>
 
-<a href="https://anafruiz.github.io/modulo-2-evaluacion-intermedia-Anafruiz/"><img src="https://img.icons8.com/dusk/64/000000/question-mark.png" alt="anafruiz20" height="30" width="30"/>Guess a number</a>
+<a href="https://anafruiz.github.io/Guess-a-number/"><img src="https://img.icons8.com/dusk/64/000000/question-mark.png" alt="anafruiz20" height="30" width="30"/>Guess a number</a>  
+
+<a href="https://anafruiz.github.io/Pokemon-React/"><img src="https://img.icons8.com/plasticine/100/000000/pokeball.png" alt="anafruiz20" height="30" width="30"/>Pokemons characters</a>
 
 <hr/>
 <h4 align="left">Contact me:</h3>
