@@ -29,7 +29,7 @@ I am currently looking for a job, so if you are interested in hiring a junior pr
 You can contact me on Linkedin or you can send me an email:
 
 <p align="left">
-<a href="https://linkedin.com/in/anafruiz20" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anafruiz20" height="50" width="50" /></a>  
+<a href="https://linkedin.com/in/anafruiz20" target="blank"><img alt="Ana Fernandez LinkedIn" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=flat&logo=linkedin&logoColor=white" /></a>  
 </p>
  <p align="left">
 :email: <a href="mailto:anafruiz20@gmail.com">anafruiz20@gmail.com</a>
