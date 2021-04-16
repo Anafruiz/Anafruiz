@@ -36,3 +36,7 @@ You can contact me on Linkedin or you can send me an email:
 :email: <a href="mailto:anafruiz20@gmail.com">anafruiz20@gmail.com</a>
 </p>
 
+ <p align="left">
+:email: <a href="https://twitter.com/AnaFruiz20"><img src="https://img.icons8.com/plasticine/100/000000/twitter--v2.png" height="50" width="50"/></a>
+</p>
+
