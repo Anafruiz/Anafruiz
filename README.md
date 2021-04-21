@@ -12,7 +12,9 @@ I consider myself a dynamic, hard-working and very enthusiastic person.
   
  <a href="https://anafruiz.github.io/portfolio"><img src="https://img.icons8.com/dusk/64/000000/rocket--v2.png" height="30" width="30"/> Portfolio </a> 
  
-<a href="https://anafruiz.github.io/Rick-Morty-character-finder/#/"><img src="https://img.icons8.com/color/48/000000/rick-sanchez.png" alt="anafruiz20" height="30" width="30"/> Rick & Morty character finder</a>
+<a href="https://anafruiz.github.io/Rick-Morty-character-finder/#/"><img src="https://img.icons8.com/color/48/000000/rick-sanchez.png" alt="anafruiz20" height="30" width="30"/> Rick & Morty character finder</a>  
+
+<a href="https://anafruiz.github.io/Local-Storage-Tapas/"><img src="https://img.icons8.com/offices/30/000000/paella.png" alt="anafruiz20" height="30" width="30"/> Local Storage Tapas</a>
 
 <a href="https://anafruiz.github.io/tv-series-searcher/"><img src="https://img.icons8.com/plasticine/100/000000/retro-tv.png" alt="anafruiz20" height="30" width="30"/> TV series searcher</a>
 
