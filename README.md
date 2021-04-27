@@ -18,7 +18,7 @@ I consider myself a dynamic, hard-working and very enthusiastic person.
 
 <a href="https://anafruiz.github.io/tv-series-searcher/"><img src="https://img.icons8.com/plasticine/100/000000/retro-tv.png" alt="anafruiz20" height="30" width="30"/> TV series searcher</a>
 
-<a href="https://awesome-profile-cards-magician.herokuapp.com/#/"><img src="https://img.icons8.com/ios/50/000000/oak-leaf.png" alt="anafruiz20" height="30" width="30"/>Awesome Profile cards</a>
+<a href="https://anafruiz-react-magicians.herokuapp.com/#//"><img src="https://img.icons8.com/ios/50/000000/oak-leaf.png" alt="anafruiz20" height="30" width="30"/>Awesome Profile cards</a>
 
 <a href="https://anafruiz.github.io/Guess-a-number/"><img src="https://img.icons8.com/dusk/64/000000/question-mark.png" alt="anafruiz20" height="30" width="30"/>Guess a number</a>  
 
