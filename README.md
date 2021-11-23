@@ -28,6 +28,7 @@ I consider myself a dynamic, hard-working and very enthusiastic person.
 <a href="https://anafruiz.github.io/Pokemon-React/"><img src="https://img.icons8.com/plasticine/100/000000/pokeball.png" alt="anafruiz20" height="30" width="30"/>Pokemons characters</a>
 
 <hr/>
+<!--
 <h4 align="left">Contact me:</h3>
 
 I am currently looking for a job, so if you are interested in hiring a junior profile, don´t hesitate to contact me :woman:
@@ -45,3 +46,4 @@ You can contact me on Linkedin or you can send me an email:
 :email: <a href="https://twitter.com/AnaFruiz20"><img src="https://img.icons8.com/plasticine/100/000000/twitter--v2.png" height="50" width="50"/></a>
 </p>
 
+-->
